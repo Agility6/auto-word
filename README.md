@@ -8,11 +8,11 @@ I copy the articles into ``xxx.docx`` when I study English and mark the words I 
 
 - If you want to use it, please replace the key https://unidoc.io/unioffice/ (Use the Free version)
     ```text
-    err = license.SetMeteredKey("YOUR_API_KEY")
+    license.SetMeteredKey("YOUR_API_KEY")
     ```
 - Only the current marker color supports red
 
-- No doc support
+- No ``doc`` support
 
 ### 🦄
 
